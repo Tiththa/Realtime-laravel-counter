@@ -7,4 +7,4 @@ This repository demonstrates the process of showing a realtime counter using Lar
 3. Configure your Pusher key in the `resources/assets/js/bootstrap.js` file
 4. Install composer dependencies
 5. Run npm install
-6. Run the seeder. You will get dummy users. The password for that users will be `secret`
+6. Run the seeder. You will get dummy users. The password for those users will be `secret`
