@@ -8,3 +8,14 @@ This repository demonstrates the process of showing a realtime counter using Lar
 4. Install composer dependencies
 5. Run npm install
 6. Run the seeder. You will get dummy users. The password for those users will be `secret`
+
+## Configure Pusher 
+
+Configure pusher in your env
+
+```
+PUSHER_APP_ID=YOURID
+PUSHER_APP_KEY=YOURKEY
+PUSHER_APP_SECRET=YOURSECRET
+PUSHER_APP_CLUSTER=YOURCLUSTER
+```
